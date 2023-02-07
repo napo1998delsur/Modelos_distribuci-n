@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/nperez/Documents/GitHub/Modelos_distribuci-n/datos/mlruns/0/b153e13fe87f4df4934f74db96eb4770/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b153e13fe87f4df4934f74db96eb4770
+run_name: receptive-squid-844
+run_uuid: b153e13fe87f4df4934f74db96eb4770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675803729451
+status: 1
+tags: []
+user_id: nperez
